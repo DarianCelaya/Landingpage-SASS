@@ -1,0 +1,32 @@
+.contact .contact-info-item .icon .fa,
+.portafolio .portafolio-filter button.active,
+.service .service-item .service-item-inner .icon .fa,
+.about .about-content .about-text h3 span,
+.aside .nav li a:hover,
+.aside .nav li a.active {
+  color: #04AC79;
+}
+
+.service .service-item .service-item-inner:hover.icon,
+.about .about-content .timeline,
+.about .about-content .timeline-item::before,
+.about .about-content .skills .skill-item .progress,
+.btn,
+.section-title h2::after,
+.section-title h2::before,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.Home .intro .social-link a {
+  background-color: #023349;
+}
+
+.portafolio .portafolio-filter button.active {
+  border-color: #023349;
+}
+
+.progress-in, .circle-dot {
+  background-color: #04AC79;
+}
+
+/*# sourceMappingURL=variables.css.map */
